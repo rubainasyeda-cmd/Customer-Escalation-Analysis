@@ -4,6 +4,8 @@
 
 ---
 
+![Dashboard](Dashboard_Screenshot.PNG)
+
 ## Problem
 
 Customer-operations teams lose time and customer goodwill in three places: appointments that fail or have to be rescheduled, interactions that get escalated instead of resolved on first contact, and quality issues that only show up in audits. Managers need one place to see which agents need coaching, which channels and appointment types are underperforming, and what is actually driving failures, so that coaching and process fixes go where they will have the most impact.
